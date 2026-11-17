@@ -1,0 +1,28 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Proxy API, OpenAI-compatible gateway, and VEKTOR hosted apps to the Render backend
+[[redirects]]
+  from = "/api/*"
+  to = "https://vektor-ai-backend.onrender.com/api/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/v1/*"
+  to = "https://vektor-ai-backend.onrender.com/v1/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/hosted/*"
+  to = "https://vektor-ai-backend.onrender.com/hosted/:splat"
+  status = 200
+  force = true
+
+# SPA fallback for client-side routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

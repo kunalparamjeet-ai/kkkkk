@@ -1,0 +1,1449 @@
+{
+  "users": [
+    {
+      "id": "usr_superadmin",
+      "email": "superadmin@vektor.ai",
+      "name": "VEKTOR Super Admin",
+      "passwordHash": "scrypt:c66dd6eb8c5c48bf6cf92902d1e358d0:caa253f94da693450e5eb99ca85fcfb30d7743417411cfb1047d0052e085cc79ab7c9111996245078caeb4e62c50556e61412da09c839cf3d18813c8c76116fd",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "super_admin",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": true,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "usr_admin",
+      "email": "admin@vektor.ai",
+      "name": "VEKTOR Operations Admin",
+      "passwordHash": "scrypt:324fa60a23d7086c4c9343553c311993:ebf0fcb34db4739d2ba0375ccb91e82e7f2e96271547b8e03a4e06be53faf78ca3f5ec4458f64f8c7a64c25a1fe080f92fa25820b3bfb6a78258cc685b196fe7",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "admin",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": true,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "usr_builder",
+      "email": "builder@vektor.ai",
+      "name": "Alex Mercer",
+      "passwordHash": "scrypt:3c7abcf8c0a96aa36f911bdcb5f86f9c:618c67a093728b3bac954e2e3248be8358e4e3a89c9f963e0b798ae7e697ec3dc7b6da3e9dc8bb3b17faa22e9dd0612701152ba0d952f1cddcb7f68f8bf22ec0",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "user",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": true,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "usr_8b94e6f074a0954ecc11",
+      "email": "verify_1794922859147@vektor.ai",
+      "name": "Verify Dev",
+      "passwordHash": "scrypt:1c7b77589082fc2773bd106a2a7bf6e5:581537898bdf5afaf058b361f0df79363e1e4b90e8cb231c89dfadd8d4c383c4c8c43c03f2e52227d76bafffb7e03a3f38ee6250236d40c99a658d7608fbc5bf",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "user",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": false,
+      "createdAt": "2026-11-17T13:40:59.169Z",
+      "updatedAt": "2026-11-17T13:40:59.169Z"
+    },
+    {
+      "id": "usr_d1ad471af74f6aa67ab2",
+      "email": "verify_1794922911939@vektor.ai",
+      "name": "Verify Dev",
+      "passwordHash": "scrypt:1c7d134e35bc94b5fd89d7f87a932a01:11c1ce49d8d576b70fd980691578f81cfd6c565c248cd50d87ebc4a9af1cf8a355fb77faf92527bf4cb590429cac6bbaebdd0ca6eed6b8997c122629dfb0773d",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "user",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": false,
+      "createdAt": "2026-11-17T13:41:51.959Z",
+      "updatedAt": "2026-11-17T13:41:51.959Z"
+    },
+    {
+      "id": "usr_a134c84743f0ab0c6ded",
+      "email": "verify_rot_1794922967379@vektor.ai",
+      "name": "Verify Rot",
+      "passwordHash": "scrypt:f342956bfb8f82a8e7c97a2fe8bbb270:cc3e147a55259884ba4fd9db2f644adc575e5d216e05ff40ab1e7cbb48104b211125780ce62f9f776f3e2f6ef565ae515e964731d22302b3634fd752da605c82",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "user",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": false,
+      "createdAt": "2026-11-17T13:42:47.527Z",
+      "updatedAt": "2026-11-17T13:42:47.527Z"
+    },
+    {
+      "id": "usr_9f06b5663ffa9e212ffa",
+      "email": "kunalparamjeet@gmail.com",
+      "name": "kunal",
+      "passwordHash": "scrypt:783a50bbdd04cb424cbfc93bfd946315:554e4f5fbd29b2d740d983dffc0c643fc1022f556e9cdd8c1e5069badca4689126a6beb182f72741a54a287cc1c6d4efe3251fb0f23dcc64a59e7dc56a2a863d",
+      "googleId": null,
+      "avatarUrl": null,
+      "role": "super_admin",
+      "status": "active",
+      "emailVerified": true,
+      "preferredTheme": "light",
+      "onboardingCompleted": true,
+      "createdAt": "2026-11-17T13:55:03.743Z",
+      "updatedAt": "2026-11-17T13:55:17.070Z"
+    }
+  ],
+  "onboardingProfiles": [
+    {
+      "userId": "usr_superadmin",
+      "preferredTheme": "light",
+      "discoverySource": "Other",
+      "projectPurpose": "Organization",
+      "projectScale": "Enterprise",
+      "completedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "userId": "usr_builder",
+      "preferredTheme": "light",
+      "discoverySource": "Google",
+      "projectPurpose": "Business",
+      "projectScale": "Medium",
+      "completedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "preferredTheme": "light",
+      "discoverySource": "Instagram",
+      "projectPurpose": "Business",
+      "projectScale": "Medium",
+      "completedAt": "2026-11-17T13:55:17.070Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess_e9be721d8cd55f7336fb",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "tokenHash": "8d61040ea366e69e88e05d8e099ebac9fd7fb1de27ddd3836da21a14b0accee4",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:40:59.231Z",
+      "createdAt": "2026-11-17T13:40:59.231Z"
+    },
+    {
+      "id": "sess_e5bd590246d192e9cea9",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "tokenHash": "693a7cb08732c5de7cbc69f200bb4f10610a495a4ebe682e4ccd667530bd1f85",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:41:52.028Z",
+      "createdAt": "2026-11-17T13:41:52.028Z"
+    },
+    {
+      "id": "sess_87be1a5e2c87703477d8",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "tokenHash": "6e21d835c1239ee98405401e8654416fac258f4edcba56a5fd5974ae7a1291f9",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:42:47.581Z",
+      "createdAt": "2026-11-17T13:42:47.581Z"
+    },
+    {
+      "id": "sess_10519e9f0377bc025b8d",
+      "userId": "usr_superadmin",
+      "tokenHash": "1018c7b7e583a072656a0699936560ca188eec2e457ba3392b3900bdfc7d765a",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:42:47.710Z",
+      "createdAt": "2026-11-17T13:42:47.710Z"
+    },
+    {
+      "id": "sess_8b7e8289c32081d40f0b",
+      "userId": "usr_builder",
+      "tokenHash": "b35cf16940da39fb09bc5f5d2dd8d6156dcc33b1620bd9abf137a7b6654055b0",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:58:54.279Z",
+      "createdAt": "2026-11-17T13:58:54.279Z"
+    },
+    {
+      "id": "sess_88c6bc9ca5c20c74d152",
+      "userId": "usr_superadmin",
+      "tokenHash": "ecac74eaeed0e67ec3b90a21edfe7e6fcceac8929fdb9438832a1ebc04828b12",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:58:54.357Z",
+      "createdAt": "2026-11-17T13:58:54.357Z"
+    },
+    {
+      "id": "sess_ba4f7d3f56525fba0291",
+      "userId": "usr_builder",
+      "tokenHash": "d0ba3efe59ff826bdb084c0275cb57a17a3300915f7777b60645b5af33ff695b",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:59:18.477Z",
+      "createdAt": "2026-11-17T13:59:18.477Z"
+    },
+    {
+      "id": "sess_f43448430c0dfc25f5b0",
+      "userId": "usr_superadmin",
+      "tokenHash": "13f6ff1230efc6c8086ec9f4b27e97025506e5a93cbc0c8f3dcabe1d0f2c25c3",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T13:59:18.539Z",
+      "createdAt": "2026-11-17T13:59:18.539Z"
+    },
+    {
+      "id": "sess_07ea09f67dcd2ab6a8f9",
+      "userId": "usr_builder",
+      "tokenHash": "0b66791423ba837a659b4a9adf4583c22020239f628bb41c1c567ebf5e1a50b2",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T14:19:50.613Z",
+      "createdAt": "2026-11-17T14:19:50.613Z"
+    },
+    {
+      "id": "sess_82b2b11d7e5102187d8e",
+      "userId": "usr_superadmin",
+      "tokenHash": "93f6d1350626bd99fd79e6cadc968cf851a01b8178327dc695c8f9953dd662cf",
+      "userAgent": "node",
+      "ipAddress": "127.0.0.1",
+      "expiresAt": "2026-11-24T14:19:50.674Z",
+      "createdAt": "2026-11-17T14:19:50.674Z"
+    }
+  ],
+  "passwordResets": [],
+  "plans": [
+    {
+      "id": "plan_free",
+      "slug": "free",
+      "name": "Free",
+      "audience": "For solo exploration",
+      "monthlyPriceUsd": 0,
+      "annualPriceUsd": 0,
+      "monthlyPriceInr": 0,
+      "monthlyCredits": 500,
+      "maxProjects": 3,
+      "rateLimitRpm": 20,
+      "customDomainsEnabled": false,
+      "features": [
+        "500 monthly credits",
+        "Up to 3 active projects",
+        "VEKTOR Managed Hosting",
+        "Split-screen workspace & ZIP export"
+      ],
+      "active": true,
+      "sortOrder": 1,
+      "dailyRequestLimit": 200
+    },
+    {
+      "id": "plan_basic",
+      "slug": "basic",
+      "name": "Basic",
+      "audience": "For solo API developers",
+      "monthlyPriceUsd": 9,
+      "annualPriceUsd": 7,
+      "monthlyPriceInr": 749,
+      "monthlyCredits": 1500,
+      "maxProjects": 8,
+      "rateLimitRpm": 40,
+      "dailyRequestLimit": 1000,
+      "customDomainsEnabled": false,
+      "features": [
+        "1,500 monthly credits",
+        "40 RPM / 1,000 daily API requests",
+        "Up to 8 projects",
+        "Full VEKTOR API Gateway access"
+      ],
+      "active": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "plan_starter",
+      "slug": "starter",
+      "name": "Starter",
+      "audience": "For independent builders",
+      "monthlyPriceUsd": 19,
+      "annualPriceUsd": 15,
+      "monthlyPriceInr": 1599,
+      "monthlyCredits": 3000,
+      "maxProjects": 15,
+      "rateLimitRpm": 60,
+      "customDomainsEnabled": false,
+      "features": [
+        "3,000 monthly credits",
+        "Up to 15 projects",
+        "GitHub OAuth & branch sync",
+        "Priority VEKTOR Coding Model routing"
+      ],
+      "active": true,
+      "sortOrder": 3,
+      "dailyRequestLimit": 2500
+    },
+    {
+      "id": "plan_pro",
+      "slug": "pro",
+      "name": "Pro",
+      "audience": "For production shipping",
+      "monthlyPriceUsd": 49,
+      "annualPriceUsd": 39,
+      "monthlyPriceInr": 3999,
+      "monthlyCredits": 10000,
+      "maxProjects": 50,
+      "rateLimitRpm": 180,
+      "customDomainsEnabled": true,
+      "features": [
+        "10,000 monthly credits",
+        "50 active projects",
+        "Custom domains with SSL",
+        "VEKTOR API Gateway access (180 RPM)"
+      ],
+      "active": true,
+      "sortOrder": 4,
+      "dailyRequestLimit": 10000
+    },
+    {
+      "id": "plan_business",
+      "slug": "business",
+      "name": "Business",
+      "audience": "For product teams",
+      "monthlyPriceUsd": 129,
+      "annualPriceUsd": 99,
+      "monthlyPriceInr": 10499,
+      "monthlyCredits": 35000,
+      "maxProjects": 200,
+      "rateLimitRpm": 600,
+      "customDomainsEnabled": true,
+      "features": [
+        "35,000 monthly credits",
+        "200 active projects",
+        "Multi-provider fallback routing",
+        "Custom domains & audit logs"
+      ],
+      "active": true,
+      "sortOrder": 5,
+      "dailyRequestLimit": 50000
+    },
+    {
+      "id": "plan_agency",
+      "slug": "agency",
+      "name": "Agency",
+      "audience": "For client delivery studios",
+      "monthlyPriceUsd": 299,
+      "annualPriceUsd": 239,
+      "monthlyPriceInr": 24999,
+      "monthlyCredits": 100000,
+      "maxProjects": 1000,
+      "rateLimitRpm": 1500,
+      "customDomainsEnabled": true,
+      "features": [
+        "100,000 monthly credits",
+        "1,000 client workspaces",
+        "White-label hosted slugs",
+        "Dedicated rate limits (1,500 RPM)"
+      ],
+      "active": true,
+      "sortOrder": 6,
+      "dailyRequestLimit": 150000
+    },
+    {
+      "id": "plan_enterprise",
+      "slug": "enterprise",
+      "name": "Enterprise",
+      "audience": "For large-scale organizations",
+      "monthlyPriceUsd": 799,
+      "annualPriceUsd": 649,
+      "monthlyPriceInr": 64999,
+      "monthlyCredits": 350000,
+      "maxProjects": 10000,
+      "rateLimitRpm": 5000,
+      "customDomainsEnabled": true,
+      "features": [
+        "350,000+ monthly credits",
+        "Self-hosted VEKTOR weights VPC",
+        "Custom SLA & SSO/SAML",
+        "Unlimited custom domains"
+      ],
+      "active": true,
+      "sortOrder": 7,
+      "dailyRequestLimit": 1000000
+    }
+  ],
+  "wallets": [
+    {
+      "userId": "usr_superadmin",
+      "balanceCredits": 50000,
+      "lifetimeCreditsPurchased": 50000,
+      "lifetimeCreditsUsed": 0,
+      "lowCreditThreshold": 500,
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "userId": "usr_admin",
+      "balanceCredits": 25000,
+      "lifetimeCreditsPurchased": 25000,
+      "lifetimeCreditsUsed": 0,
+      "lowCreditThreshold": 500,
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "userId": "usr_builder",
+      "balanceCredits": 2499,
+      "lifetimeCreditsPurchased": 2500,
+      "lifetimeCreditsUsed": 121,
+      "lowCreditThreshold": 200,
+      "updatedAt": "2026-11-17T14:19:54.488Z"
+    },
+    {
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "balanceCredits": 500,
+      "lifetimeCreditsPurchased": 0,
+      "lifetimeCreditsUsed": 0,
+      "lowCreditThreshold": 100,
+      "updatedAt": "2026-11-17T13:40:59.229Z"
+    },
+    {
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "balanceCredits": 499,
+      "lifetimeCreditsPurchased": 0,
+      "lifetimeCreditsUsed": 1,
+      "lowCreditThreshold": 100,
+      "updatedAt": "2026-11-17T13:42:31.258Z"
+    },
+    {
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "balanceCredits": 500,
+      "lifetimeCreditsPurchased": 0,
+      "lifetimeCreditsUsed": 0,
+      "lowCreditThreshold": 100,
+      "updatedAt": "2026-11-17T13:42:47.579Z"
+    },
+    {
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "balanceCredits": 500,
+      "lifetimeCreditsPurchased": 0,
+      "lifetimeCreditsUsed": 0,
+      "lowCreditThreshold": 100,
+      "updatedAt": "2026-11-17T13:55:03.796Z"
+    }
+  ],
+  "creditTransactions": [
+    {
+      "id": "txn_9fc508f56cebe8d7d08c",
+      "userId": "usr_builder",
+      "type": "deduction",
+      "amount": -1,
+      "balanceAfter": 2499,
+      "idempotencyKey": "gw:chatcmpl_ff911e656e9bd6950427",
+      "referenceId": "vkey_848b110bb094d1078eb7",
+      "description": "VEKTOR API Gateway (vektor-coder-1)",
+      "metadata": {
+        "endpoint": "/v1/chat/completions",
+        "tokens": 7
+      },
+      "createdAt": "2026-11-17T14:19:54.488Z"
+    },
+    {
+      "id": "txn_26c5639f924718fb5451",
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "type": "grant",
+      "amount": 500,
+      "balanceAfter": 500,
+      "idempotencyKey": "wallet:init:usr_9f06b5663ffa9e212ffa",
+      "referenceId": "plan_free",
+      "description": "Free plan initial credit grant",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:55:03.796Z"
+    },
+    {
+      "id": "txn_09e02ca7787ccd77b74d",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "type": "grant",
+      "amount": 500,
+      "balanceAfter": 500,
+      "idempotencyKey": "wallet:init:usr_a134c84743f0ab0c6ded",
+      "referenceId": "plan_free",
+      "description": "Free plan initial credit grant",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:42:47.579Z"
+    },
+    {
+      "id": "txn_347354238d451022f580",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "type": "deduction",
+      "amount": -1,
+      "balanceAfter": 499,
+      "idempotencyKey": "gw:chatcmpl_cfb2f085c58e5497e1b1",
+      "referenceId": "vkey_fb92cbe8ed0d4ecbf86b",
+      "description": "VEKTOR API Gateway (gemini-4-hydrogen)",
+      "metadata": {
+        "endpoint": "/v1/chat/completions",
+        "tokens": 72
+      },
+      "createdAt": "2026-11-17T13:42:31.258Z"
+    },
+    {
+      "id": "txn_e3fe6f013ead36e650ff",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "type": "grant",
+      "amount": 500,
+      "balanceAfter": 500,
+      "idempotencyKey": "wallet:init:usr_d1ad471af74f6aa67ab2",
+      "referenceId": "plan_free",
+      "description": "Free plan initial credit grant",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:41:52.026Z"
+    },
+    {
+      "id": "txn_d328b537f5ddac653dbd",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "type": "grant",
+      "amount": 500,
+      "balanceAfter": 500,
+      "idempotencyKey": "wallet:init:usr_8b94e6f074a0954ecc11",
+      "referenceId": "plan_free",
+      "description": "Free plan initial credit grant",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:40:59.229Z"
+    },
+    {
+      "id": "txn_f03912b886119f2eeda8",
+      "userId": "usr_superadmin",
+      "type": "grant",
+      "amount": 50000,
+      "balanceAfter": 50000,
+      "idempotencyKey": "seed:superadmin:init",
+      "referenceId": "plan_enterprise",
+      "description": "Initial Enterprise Super-Admin allocation",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "txn_4688e23f4b03848e2a0f",
+      "userId": "usr_builder",
+      "type": "grant",
+      "amount": 2500,
+      "balanceAfter": 2500,
+      "idempotencyKey": "seed:builder:init",
+      "referenceId": "plan_pro",
+      "description": "Initial Builder Starter allocation",
+      "metadata": {},
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "sub_e28c8e218304c5c6bafc",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "planId": "plan_basic",
+      "status": "active",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:42:47.750Z",
+      "currentPeriodEnd": "2026-12-17T13:42:47.750Z",
+      "createdAt": "2026-11-17T13:42:47.750Z"
+    },
+    {
+      "id": "sub_superadmin",
+      "userId": "usr_superadmin",
+      "planId": "plan_enterprise",
+      "status": "active",
+      "billingCycle": "annual",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:17:47.765Z",
+      "currentPeriodEnd": "2027-11-17T13:17:48.023Z",
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "sub_builder",
+      "userId": "usr_builder",
+      "planId": "plan_pro",
+      "status": "active",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:17:47.765Z",
+      "currentPeriodEnd": "2026-12-17T13:17:48.023Z",
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "sub_5385dc52506c6d3fc86e",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "planId": "plan_free",
+      "status": "active",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:40:59.169Z",
+      "currentPeriodEnd": "2026-12-17T13:40:59.228Z",
+      "createdAt": "2026-11-17T13:40:59.169Z"
+    },
+    {
+      "id": "sub_327aef61c5c8dddf93f9",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "planId": "plan_free",
+      "status": "active",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:41:51.959Z",
+      "currentPeriodEnd": "2026-12-17T13:41:52.025Z",
+      "createdAt": "2026-11-17T13:41:51.959Z"
+    },
+    {
+      "id": "sub_dbd0e3373ad081ca5ade",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "planId": "plan_free",
+      "status": "canceled",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:42:47.527Z",
+      "currentPeriodEnd": "2026-12-17T13:42:47.578Z",
+      "createdAt": "2026-11-17T13:42:47.527Z"
+    },
+    {
+      "id": "sub_3f02e1aa15939467e9f0",
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "planId": "plan_free",
+      "status": "active",
+      "billingCycle": "monthly",
+      "provider": "internal",
+      "externalSubscriptionId": null,
+      "currentPeriodStart": "2026-11-17T13:55:03.743Z",
+      "currentPeriodEnd": "2026-12-17T13:55:03.795Z",
+      "createdAt": "2026-11-17T13:55:03.743Z"
+    }
+  ],
+  "payments": [],
+  "invoices": [],
+  "aiProviders": [
+    {
+      "id": "prov_vektor_self_hosted",
+      "name": "VEKTOR Inference Server",
+      "kind": "vektor_self_hosted",
+      "baseUrl": null,
+      "apiKeyEnvVar": "VEKTOR_INFERENCE_API_KEY",
+      "encryptedApiKey": null,
+      "enabled": true,
+      "status": "unconfigured",
+      "lastCheckedAt": "2026-11-17T14:19:54.496Z"
+    },
+    {
+      "id": "prov_gemini",
+      "name": "Google Gemini",
+      "kind": "gemini",
+      "baseUrl": "https://generativelanguage.googleapis.com",
+      "apiKeyEnvVar": "GEMINI_API_KEY",
+      "encryptedApiKey": null,
+      "enabled": true,
+      "status": "available",
+      "lastCheckedAt": "2026-11-17T14:19:36.613Z"
+    },
+    {
+      "id": "prov_openai",
+      "name": "OpenAI",
+      "kind": "openai",
+      "baseUrl": "https://api.openai.com/v1",
+      "apiKeyEnvVar": "OPENAI_API_KEY",
+      "encryptedApiKey": null,
+      "enabled": true,
+      "status": "unconfigured",
+      "lastCheckedAt": "2026-11-17T14:19:36.613Z"
+    },
+    {
+      "id": "prov_deepseek",
+      "name": "DeepSeek",
+      "kind": "deepseek",
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKeyEnvVar": "DEEPSEEK_API_KEY",
+      "encryptedApiKey": null,
+      "enabled": true,
+      "status": "unconfigured",
+      "lastCheckedAt": "2026-11-17T14:19:36.613Z"
+    }
+  ],
+  "aiModels": [
+    {
+      "id": "vektor-orchestrator-1",
+      "providerId": "prov_vektor_self_hosted",
+      "modelIdentifier": "vektor-orchestrator-1",
+      "displayName": "VEKTOR Senior Orchestrator",
+      "roleTag": "Central Orchestrator",
+      "inputCreditsPer1k": 1,
+      "outputCreditsPer1k": 2,
+      "maxContextTokens": 128000,
+      "supportsStreaming": true,
+      "enabled": true,
+      "isPreferredCoding": false
+    },
+    {
+      "id": "vektor-coder-1",
+      "providerId": "prov_vektor_self_hosted",
+      "modelIdentifier": "vektor-coder-1",
+      "displayName": "VEKTOR Coding Model",
+      "roleTag": "Preferred Coding Engine",
+      "inputCreditsPer1k": 0.8,
+      "outputCreditsPer1k": 1.5,
+      "maxContextTokens": 128000,
+      "supportsStreaming": true,
+      "enabled": true,
+      "isPreferredCoding": true
+    },
+    {
+      "id": "gemini-4-hydrogen",
+      "providerId": "prov_gemini",
+      "modelIdentifier": "gemini-4-hydrogen",
+      "displayName": "Gemini 4 Hydrogen",
+      "roleTag": "App Creation & UI/UX",
+      "inputCreditsPer1k": 1,
+      "outputCreditsPer1k": 2,
+      "maxContextTokens": 1000000,
+      "supportsStreaming": true,
+      "enabled": true,
+      "isPreferredCoding": false
+    },
+    {
+      "id": "gpt-4.1",
+      "providerId": "prov_openai",
+      "modelIdentifier": "gpt-4.1",
+      "displayName": "OpenAI GPT-4.1",
+      "roleTag": "Complex Reasoning",
+      "inputCreditsPer1k": 2.5,
+      "outputCreditsPer1k": 5,
+      "maxContextTokens": 128000,
+      "supportsStreaming": true,
+      "enabled": true,
+      "isPreferredCoding": false
+    },
+    {
+      "id": "deepseek-coder",
+      "providerId": "prov_deepseek",
+      "modelIdentifier": "deepseek-coder",
+      "displayName": "DeepSeek Coder",
+      "roleTag": "Technical & Debugging",
+      "inputCreditsPer1k": 0.6,
+      "outputCreditsPer1k": 1.2,
+      "maxContextTokens": 128000,
+      "supportsStreaming": true,
+      "enabled": true,
+      "isPreferredCoding": false
+    }
+  ],
+  "taskRoutingRules": [
+    {
+      "taskType": "orchestration",
+      "primaryModelId": "vektor-orchestrator-1",
+      "fallbackModelId": "gemini-4-hydrogen",
+      "description": "Senior request decomposition, delegation, and synthesis",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "coding",
+      "primaryModelId": "vektor-coder-1",
+      "fallbackModelId": "gemini-4-hydrogen",
+      "description": "Fast full-stack code synthesis and file edits",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "app_creation",
+      "primaryModelId": "gemini-4-hydrogen",
+      "fallbackModelId": "vektor-coder-1",
+      "description": "End-to-end web application scaffolding",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "reasoning",
+      "primaryModelId": "gpt-4.1",
+      "fallbackModelId": "gemini-4-hydrogen",
+      "description": "Architectural trade-offs and multi-step logic",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "design_ux",
+      "primaryModelId": "gemini-4-hydrogen",
+      "fallbackModelId": "vektor-coder-1",
+      "description": "Visual hierarchy, layout structure, and CSS design",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "testing_debug",
+      "primaryModelId": "deepseek-coder",
+      "fallbackModelId": "gemini-4-hydrogen",
+      "description": "Static checks, edge cases, and verification",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "taskType": "publishing",
+      "primaryModelId": "vektor-orchestrator-1",
+      "fallbackModelId": "gemini-4-hydrogen",
+      "description": "Build packaging, bundle manifest, and deployment",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    }
+  ],
+  "selfHostedConfig": {
+    "modelName": "VEKTOR-Coder-Open-1",
+    "inferenceServerUrl": "",
+    "weightsPath": "",
+    "hasApiKey": false,
+    "status": "unconfigured",
+    "lastCheckedAt": "2026-11-17T14:19:54.496Z",
+    "lastMessage": "No self-hosted open-source inference server is installed or configured on this instance. Set VEKTOR_INFERENCE_URL (e.g. vLLM, Ollama, or llama.cpp) to run independently without external API keys.",
+    "discoveredModels": [],
+    "runtimeDetected": null,
+    "latencyMs": null
+  },
+  "vektorApiKeys": [
+    {
+      "id": "vkey_848b110bb094d1078eb7",
+      "userId": "usr_builder",
+      "name": "Workspace Check Key",
+      "keyPrefix": "vk_live_Rl7OQHKy",
+      "keyHash": "ebed77fda1aeea44f92296ab2b6304072f24427ed18265df1eba04e8293c73e4",
+      "permissions": [
+        "chat.completions",
+        "embeddings",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 30,
+      "isInternal": false,
+      "expiresAt": "2026-12-17T14:19:54.430Z",
+      "revokedAt": "2026-11-17T14:19:54.502Z",
+      "lastUsedAt": "2026-11-17T14:19:54.478Z",
+      "createdAt": "2026-11-17T14:19:54.431Z"
+    },
+    {
+      "id": "vkey_7d322d51d53f7909b04a",
+      "userId": "usr_builder",
+      "name": "Test Verification Key",
+      "keyPrefix": "vk_live_I0U4GOJw",
+      "keyHash": "c20a2948a0f5ff1f2800884cbb64e2a96948416ff7ba68178031a06c9013a00f",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 15,
+      "isInternal": false,
+      "expiresAt": "2026-12-17T13:59:18.557Z",
+      "revokedAt": null,
+      "lastUsedAt": "2026-11-17T13:59:18.581Z",
+      "createdAt": "2026-11-17T13:59:18.557Z"
+    },
+    {
+      "id": "vkey_22243682b69a71d539c5",
+      "userId": "usr_builder",
+      "name": "Test Verification Key",
+      "keyPrefix": "vk_live_LK5sA5If",
+      "keyHash": "0b514f5bbdce7003dc40ee2798117d6ac2dc3c3c443e744850f8e112601fda4a",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 15,
+      "isInternal": false,
+      "expiresAt": "2026-12-17T13:58:54.420Z",
+      "revokedAt": "2026-11-17T13:59:18.550Z",
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:58:54.420Z"
+    },
+    {
+      "id": "vkey_d8a07d00650c0c567e3c",
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_qGV9tBoG",
+      "keyHash": "56e733048d23dd040193f1c8ddcfcddc878f8d14d0d8f29f5e9c21c471fcff70",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:55:03.797Z"
+    },
+    {
+      "id": "vkey_c9ffac879b3ba6ac82a3",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "name": "Admin Issued Key",
+      "keyPrefix": "vk_live_3wZg2hyx",
+      "keyHash": "9ee335229a05fc2f040c3d8c1fb2931455459deea660cd0e3b0a90f85e8a8d32",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 120,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:42:47.729Z"
+    },
+    {
+      "id": "vkey_fbc999c572dd1c9163e3",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "name": "Rotation Test Key",
+      "keyPrefix": "vk_live_XyV8QoU-",
+      "keyHash": "33349add6096eee816807a5988635274aa8ed23ddd3a5b2ffdd04600fdb1b52d",
+      "permissions": [
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": "2026-11-17T13:42:47.618Z",
+      "lastUsedAt": "2026-11-17T13:42:47.613Z",
+      "createdAt": "2026-11-17T13:42:47.597Z"
+    },
+    {
+      "id": "vkey_5773e4f246e347fc6d04",
+      "userId": "usr_a134c84743f0ab0c6ded",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_q6bxVIpa",
+      "keyHash": "72ad4a9c2646f85650a3323e944754f52ccfc4a2b1730344e86dca8634092e64",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:42:47.580Z"
+    },
+    {
+      "id": "vkey_d0599d2707c7d51b9bfa",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "name": "Scoped Limited Key",
+      "keyPrefix": "vk_live_TODuk4Ha",
+      "keyHash": "512593ab198df9752a429427b9727317ac9c47806d7a331a686a68111b23025c",
+      "permissions": [
+        "models.read"
+      ],
+      "rateLimitRpm": 2,
+      "isInternal": false,
+      "expiresAt": "2026-12-17T13:42:31.277Z",
+      "revokedAt": null,
+      "lastUsedAt": "2026-11-17T13:42:31.290Z",
+      "createdAt": "2026-11-17T13:42:31.277Z"
+    },
+    {
+      "id": "vkey_fb92cbe8ed0d4ecbf86b",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live__zEFBvGA",
+      "keyHash": "3176b2c316c23d87a8c798a8406ac31048bc5269651401618209056ac7a08241",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": "2026-11-17T13:42:31.269Z",
+      "createdAt": "2026-11-17T13:41:52.027Z"
+    },
+    {
+      "id": "vkey_a2b1f9bd4934c96add54",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "name": "Scoped Limited Key",
+      "keyPrefix": "vk_live_P8OnZO4n",
+      "keyHash": "4b1ace95eac7610b1152d52ac15b1fda0b62b86a5eae18f89e14a8f028d69b37",
+      "permissions": [
+        "models.read"
+      ],
+      "rateLimitRpm": 2,
+      "isInternal": false,
+      "expiresAt": "2026-12-17T13:41:01.835Z",
+      "revokedAt": null,
+      "lastUsedAt": "2026-11-17T13:41:01.851Z",
+      "createdAt": "2026-11-17T13:41:01.836Z"
+    },
+    {
+      "id": "vkey_c326107df3d3cc763379",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_wqxGFwBa",
+      "keyHash": "c049a1540a1e00ba569097ba9b20eb691eff7bcb3da2868e7cd0d8d2be40c01e",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": "2026-11-17T13:40:59.258Z",
+      "createdAt": "2026-11-17T13:40:59.230Z"
+    },
+    {
+      "id": "vkey_592a1fe318ec687e09b4",
+      "userId": "usr_superadmin",
+      "name": "VEKTOR Internal Orchestrator Key",
+      "keyPrefix": "vk_live_internal_4",
+      "keyHash": "1dff0fcb6ada7c160fb3a29c5e99f1e74510159f6fba62c58189a4c9dcdf2c97",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "orchestrator.internal"
+      ],
+      "rateLimitRpm": 5000,
+      "isInternal": true,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "expiresAt": null
+    },
+    {
+      "id": "vkey_5b6aaf0053cc0cbb3189",
+      "userId": "usr_superadmin",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_5uWQC-6W",
+      "keyHash": "7e35729c1d156cd37510ba4655b718b4006d0248ed3d41f7b6549c9ae8e407b9",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:40:36.405Z"
+    },
+    {
+      "id": "vkey_703f520c3897cda117ca",
+      "userId": "usr_admin",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_nGC-zkvZ",
+      "keyHash": "5be2b1f32d0aceebbe7ab5d8c234acbfe468be48580db3d0938a9b38cd17cc59",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:40:36.405Z"
+    },
+    {
+      "id": "vkey_f57f93e9bd503316bdf8",
+      "userId": "usr_builder",
+      "name": "Default Developer Key",
+      "keyPrefix": "vk_live_KXmvxRpu",
+      "keyHash": "776034d0b19607bf2cdd9610bbf53647ca13be9e136648dce8fb869f2c42a6b7",
+      "permissions": [
+        "chat.completions",
+        "models.read",
+        "usage.read"
+      ],
+      "rateLimitRpm": 20,
+      "isInternal": false,
+      "expiresAt": null,
+      "revokedAt": null,
+      "lastUsedAt": null,
+      "createdAt": "2026-11-17T13:40:36.406Z"
+    }
+  ],
+  "gatewayLogs": [
+    {
+      "id": "glog_24851e8f33ddf0da7b4e",
+      "apiKeyId": "vkey_848b110bb094d1078eb7",
+      "userId": "usr_builder",
+      "endpoint": "/v1/chat/completions",
+      "requestedModel": "vektor-coder-1",
+      "routedModel": "vektor-coder-1",
+      "promptTokens": 5,
+      "completionTokens": 2,
+      "creditsCharged": 1,
+      "latencyMs": 7,
+      "statusCode": 200,
+      "errorMessage": null,
+      "createdAt": "2026-11-17T14:19:54.489Z"
+    },
+    {
+      "id": "glog_13b537368f917235a741",
+      "apiKeyId": "vkey_fb92cbe8ed0d4ecbf86b",
+      "userId": "usr_d1ad471af74f6aa67ab2",
+      "endpoint": "/v1/chat/completions",
+      "requestedModel": "gemini-4-hydrogen",
+      "routedModel": "gemini-4-hydrogen",
+      "promptTokens": 63,
+      "completionTokens": 9,
+      "creditsCharged": 1,
+      "latencyMs": 39201,
+      "statusCode": 200,
+      "errorMessage": null,
+      "createdAt": "2026-11-17T13:42:31.259Z"
+    },
+    {
+      "id": "glog_44ecf095c93965932b72",
+      "apiKeyId": "vkey_c326107df3d3cc763379",
+      "userId": "usr_8b94e6f074a0954ecc11",
+      "endpoint": "/v1/chat/completions",
+      "requestedModel": "gemini-4-hydrogen",
+      "routedModel": "gemini-4-hydrogen",
+      "promptTokens": 0,
+      "completionTokens": 0,
+      "creditsCharged": 0,
+      "latencyMs": 2568,
+      "statusCode": 502,
+      "errorMessage": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "createdAt": "2026-11-17T13:41:01.825Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj_c5daaa416bd5132b39fb",
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "name": "Build a production-grade saas",
+      "description": "",
+      "status": "ready",
+      "selectedModelId": "vektor-auto",
+      "previewSlug": null,
+      "activeVersionId": null,
+      "totalTokensUsed": 0,
+      "githubRepoFullName": null,
+      "githubBranch": null,
+      "createdAt": "2026-11-17T13:55:18.103Z",
+      "updatedAt": "2026-11-17T13:57:44.949Z"
+    },
+    {
+      "id": "prj_showcase_treasury",
+      "userId": "usr_builder",
+      "name": "Meridian Treasury Ops",
+      "description": "Institutional cashflow dashboard with real-time liquidity sweep simulation and account breakdown.",
+      "status": "published",
+      "selectedModelId": "vektor-auto",
+      "previewSlug": "meridian-treasury",
+      "activeVersionId": "ver_showcase_1",
+      "totalTokensUsed": 4820,
+      "githubRepoFullName": null,
+      "githubBranch": null,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "prj_showcase_aeterna",
+      "userId": "usr_builder",
+      "name": "Aeterna Stoneware Storefront",
+      "description": "Minimalist homeware storefront with interactive shopping bag state and editorial layout.",
+      "status": "published",
+      "selectedModelId": "vektor-auto",
+      "previewSlug": "aeterna-stoneware",
+      "activeVersionId": "ver_showcase_2",
+      "totalTokensUsed": 3910,
+      "githubRepoFullName": null,
+      "githubBranch": null,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "prj_showcase_caregrid",
+      "userId": "usr_builder",
+      "name": "CareGrid Clinical Intake",
+      "description": "Outpatient diagnostics queue and one-click check-in console.",
+      "status": "published",
+      "selectedModelId": "vektor-auto",
+      "previewSlug": "caregrid-intake",
+      "activeVersionId": "ver_showcase_3",
+      "totalTokensUsed": 3240,
+      "githubRepoFullName": null,
+      "githubBranch": null,
+      "createdAt": "2026-11-17T13:17:47.765Z",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    }
+  ],
+  "projectFiles": [
+    {
+      "id": "file_sh_1",
+      "projectId": "prj_showcase_treasury",
+      "path": "index.html",
+      "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Meridian Treasury Ops — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background: #f8fafc; color: #0f172a; }\n    header { display:flex; justify-content:space-between; align-items:center; padding:18px 32px; background:#fff; border-bottom:1px solid #e2e8f0; }\n    main { max-width:1100px; margin:32px auto; padding:0 24px; }\n    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin-bottom:24px; }\n    .card { background:#fff; border:1px solid #e2e8f0; border-radius:10px; padding:18px; }\n    .label { font-size:12px; color:#64748b; margin-bottom:6px; }\n    .val { font-size:26px; font-weight:700; font-variant-numeric:tabular-nums; }\n    table { width:100%; border-collapse:collapse; background:#fff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; }\n    th, td { text-align:left; padding:12px 16px; border-bottom:1px solid #f1f5f9; font-size:14px; }\n    th { background:#f8fafc; color:#475569; font-weight:600; }\n    .num { text-align:right; font-variant-numeric:tabular-nums; }\n    button { background:#2563eb; color:#fff; border:none; padding:9px 16px; border-radius:8px; font-weight:600; cursor:pointer; }\n  </style>\n</head>\n<body>\n  <header>\n    <strong>Meridian Treasury Ops</strong>\n    <button onclick=\"rebalance()\">Simulate Sweep</button>\n  </header>\n  <main>\n    <div class=\"grid\">\n      <div class=\"card\"><div class=\"label\">Total Liquidity</div><div class=\"val\" id=\"liq\">$48,920,400</div></div>\n      <div class=\"card\"><div class=\"label\">30-Day Net Yield</div><div class=\"val\">+$214,880</div></div>\n      <div class=\"card\"><div class=\"label\">Active Operating Accounts</div><div class=\"val\">14</div></div>\n    </div>\n    <table>\n      <thead><tr><th>Account</th><th>Bank</th><th>Currency</th><th class=\"num\">Balance</th></tr></thead>\n      <tbody id=\"rows\">\n        <tr><td>Primary Operating</td><td>JPMorgan Chase</td><td>USD</td><td class=\"num\">$18,420,100</td></tr>\n        <tr><td>Treasury Reserve</td><td>Silicon Valley Commercial</td><td>USD</td><td class=\"num\">$24,500,300</td></tr>\n        <tr><td>EMEA Settlement</td><td>HSBC London</td><td>EUR</td><td class=\"num\">€5,610,000</td></tr>\n      </tbody>\n    </table>\n  </main>\n  <script>\n    function rebalance() {\n      const el = document.getElementById('liq');\n      const next = 48920400 + Math.floor(Math.random() * 45000);\n      el.textContent = '$' + next.toLocaleString('en-US');\n    }\n  </script>\n</body>\n</html>",
+      "language": "html",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "file_sh_2",
+      "projectId": "prj_showcase_aeterna",
+      "path": "index.html",
+      "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Aeterna Stoneware — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: Georgia, serif; margin:0; background:#faf9f6; color:#1c1917; }\n    header { display:flex; justify-content:space-between; align-items:center; padding:20px 36px; border-bottom:1px solid #e7e5e4; font-family:system-ui,sans-serif; }\n    .hero { max-width:1040px; margin:40px auto; padding:0 24px; display:grid; grid-template-columns:1fr 1fr; gap:32px; align-items:center; }\n    .catalog { max-width:1040px; margin:32px auto 64px; padding:0 24px; display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:20px; }\n    .item { background:#fff; border:1px solid #e7e5e4; padding:18px; border-radius:8px; font-family:system-ui,sans-serif; }\n    .btn { background:#1c1917; color:#fff; border:none; padding:10px 16px; border-radius:6px; cursor:pointer; font-size:13px; }\n  </style>\n</head>\n<body>\n  <header>\n    <strong>AETERNA</strong>\n    <span id=\"cart\" style=\"font-size:14px;\">Bag (0)</span>\n  </header>\n  <section class=\"hero\">\n    <div>\n      <h1 style=\"font-size:40px; line-height:1.1; margin:0 0 12px;\">Architectural Stoneware &amp; Linen</h1>\n      <p style=\"font-family:system-ui,sans-serif; color:#57534e; line-height:1.6;\">Small-batch travertine vessels and Belgian linen textiles crafted for quiet residential interiors.</p>\n    </div>\n    <div style=\"background:#e7e5e4; border-radius:8px; padding:48px; text-align:center; font-family:system-ui,sans-serif;\">Autumn Collection · 12 Pieces</div>\n  </section>\n  <section class=\"catalog\">\n    <div class=\"item\"><h3>Aura Travertine Vase</h3><p>$280</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n    <div class=\"item\"><h3>Serra Linen Lamp</h3><p>$340</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n    <div class=\"item\"><h3>Petra Serving Bowl</h3><p>$195</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n  </section>\n  <script>\n    let c = 0;\n    function add() { c++; document.getElementById('cart').textContent = 'Bag (' + c + ')'; }\n  </script>\n</body>\n</html>",
+      "language": "html",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "file_sh_3",
+      "projectId": "prj_showcase_caregrid",
+      "path": "index.html",
+      "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>CareGrid Clinical Intake — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: system-ui, sans-serif; margin:0; background:#f4f4f5; color:#18181b; }\n    header { background:#fff; border-bottom:1px solid #e4e4e7; padding:16px 28px; display:flex; justify-content:space-between; align-items:center; }\n    main { max-width:980px; margin:28px auto; padding:0 20px; }\n    .slot { background:#fff; border:1px solid #e4e4e7; border-radius:8px; padding:14px 18px; display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }\n    .btn { background:#2563eb; color:#fff; border:none; padding:7px 14px; border-radius:6px; cursor:pointer; font-size:13px; }\n  </style>\n</head>\n<body>\n  <header><strong>CareGrid Diagnostics</strong><span>Today · Outpatient Wing B</span></header>\n  <main>\n    <h2 style=\"font-size:20px;\">Scheduled Intake Queue</h2>\n    <div class=\"slot\"><div><strong>09:30 AM</strong> — Liam Brown · Thoracic Scan Review</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n    <div class=\"slot\"><div><strong>10:15 AM</strong> — Emily Chen · Follow-up Consultation</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n    <div class=\"slot\"><div><strong>11:00 AM</strong> — Marcus Rivera · Lab Panel Sync</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n  </main>\n</body>\n</html>",
+      "language": "html",
+      "updatedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "file_7670eda80b0aedb24951",
+      "projectId": "prj_c5daaa416bd5132b39fb",
+      "path": "index.html",
+      "language": "html",
+      "content": "<!doctype html>\n<html lang=\"en\">\n<head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>Build a production-grade saas</title></head>\n<body style=\"font-family:system-ui,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;background:#fafafa;color:#18181b;\">\n  <div style=\"text-align:center;max-width:420px;padding:24px;\">\n    <h1 style=\"font-size:20px;margin:0 0 8px;\">Build a production-grade saas</h1>\n    <p style=\"color:#52525b;font-size:14px;margin:0;\">Ready for VEKTOR AI orchestration.</p>\n  </div>\n</body>\n</html>",
+      "updatedAt": "2026-11-17T13:55:18.103Z"
+    }
+  ],
+  "projectVersions": [
+    {
+      "id": "ver_showcase_1",
+      "projectId": "prj_showcase_treasury",
+      "versionNumber": 1,
+      "summary": "Initial institutional treasury dashboard build",
+      "filesSnapshot": [
+        {
+          "path": "index.html",
+          "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Meridian Treasury Ops — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; background: #f8fafc; color: #0f172a; }\n    header { display:flex; justify-content:space-between; align-items:center; padding:18px 32px; background:#fff; border-bottom:1px solid #e2e8f0; }\n    main { max-width:1100px; margin:32px auto; padding:0 24px; }\n    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin-bottom:24px; }\n    .card { background:#fff; border:1px solid #e2e8f0; border-radius:10px; padding:18px; }\n    .label { font-size:12px; color:#64748b; margin-bottom:6px; }\n    .val { font-size:26px; font-weight:700; font-variant-numeric:tabular-nums; }\n    table { width:100%; border-collapse:collapse; background:#fff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; }\n    th, td { text-align:left; padding:12px 16px; border-bottom:1px solid #f1f5f9; font-size:14px; }\n    th { background:#f8fafc; color:#475569; font-weight:600; }\n    .num { text-align:right; font-variant-numeric:tabular-nums; }\n    button { background:#2563eb; color:#fff; border:none; padding:9px 16px; border-radius:8px; font-weight:600; cursor:pointer; }\n  </style>\n</head>\n<body>\n  <header>\n    <strong>Meridian Treasury Ops</strong>\n    <button onclick=\"rebalance()\">Simulate Sweep</button>\n  </header>\n  <main>\n    <div class=\"grid\">\n      <div class=\"card\"><div class=\"label\">Total Liquidity</div><div class=\"val\" id=\"liq\">$48,920,400</div></div>\n      <div class=\"card\"><div class=\"label\">30-Day Net Yield</div><div class=\"val\">+$214,880</div></div>\n      <div class=\"card\"><div class=\"label\">Active Operating Accounts</div><div class=\"val\">14</div></div>\n    </div>\n    <table>\n      <thead><tr><th>Account</th><th>Bank</th><th>Currency</th><th class=\"num\">Balance</th></tr></thead>\n      <tbody id=\"rows\">\n        <tr><td>Primary Operating</td><td>JPMorgan Chase</td><td>USD</td><td class=\"num\">$18,420,100</td></tr>\n        <tr><td>Treasury Reserve</td><td>Silicon Valley Commercial</td><td>USD</td><td class=\"num\">$24,500,300</td></tr>\n        <tr><td>EMEA Settlement</td><td>HSBC London</td><td>EUR</td><td class=\"num\">€5,610,000</td></tr>\n      </tbody>\n    </table>\n  </main>\n  <script>\n    function rebalance() {\n      const el = document.getElementById('liq');\n      const next = 48920400 + Math.floor(Math.random() * 45000);\n      el.textContent = '$' + next.toLocaleString('en-US');\n    }\n  </script>\n</body>\n</html>",
+          "language": "html"
+        }
+      ],
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "ver_showcase_2",
+      "projectId": "prj_showcase_aeterna",
+      "versionNumber": 1,
+      "summary": "Initial luxury stoneware storefront build",
+      "filesSnapshot": [
+        {
+          "path": "index.html",
+          "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>Aeterna Stoneware — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: Georgia, serif; margin:0; background:#faf9f6; color:#1c1917; }\n    header { display:flex; justify-content:space-between; align-items:center; padding:20px 36px; border-bottom:1px solid #e7e5e4; font-family:system-ui,sans-serif; }\n    .hero { max-width:1040px; margin:40px auto; padding:0 24px; display:grid; grid-template-columns:1fr 1fr; gap:32px; align-items:center; }\n    .catalog { max-width:1040px; margin:32px auto 64px; padding:0 24px; display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:20px; }\n    .item { background:#fff; border:1px solid #e7e5e4; padding:18px; border-radius:8px; font-family:system-ui,sans-serif; }\n    .btn { background:#1c1917; color:#fff; border:none; padding:10px 16px; border-radius:6px; cursor:pointer; font-size:13px; }\n  </style>\n</head>\n<body>\n  <header>\n    <strong>AETERNA</strong>\n    <span id=\"cart\" style=\"font-size:14px;\">Bag (0)</span>\n  </header>\n  <section class=\"hero\">\n    <div>\n      <h1 style=\"font-size:40px; line-height:1.1; margin:0 0 12px;\">Architectural Stoneware &amp; Linen</h1>\n      <p style=\"font-family:system-ui,sans-serif; color:#57534e; line-height:1.6;\">Small-batch travertine vessels and Belgian linen textiles crafted for quiet residential interiors.</p>\n    </div>\n    <div style=\"background:#e7e5e4; border-radius:8px; padding:48px; text-align:center; font-family:system-ui,sans-serif;\">Autumn Collection · 12 Pieces</div>\n  </section>\n  <section class=\"catalog\">\n    <div class=\"item\"><h3>Aura Travertine Vase</h3><p>$280</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n    <div class=\"item\"><h3>Serra Linen Lamp</h3><p>$340</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n    <div class=\"item\"><h3>Petra Serving Bowl</h3><p>$195</p><button class=\"btn\" onclick=\"add()\">Add to Bag</button></div>\n  </section>\n  <script>\n    let c = 0;\n    function add() { c++; document.getElementById('cart').textContent = 'Bag (' + c + ')'; }\n  </script>\n</body>\n</html>",
+          "language": "html"
+        }
+      ],
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "ver_showcase_3",
+      "projectId": "prj_showcase_caregrid",
+      "versionNumber": 1,
+      "summary": "Initial clinical intake console build",
+      "filesSnapshot": [
+        {
+          "path": "index.html",
+          "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n  <title>CareGrid Clinical Intake — Hosted on VEKTOR AI</title>\n  <style>\n    body { font-family: system-ui, sans-serif; margin:0; background:#f4f4f5; color:#18181b; }\n    header { background:#fff; border-bottom:1px solid #e4e4e7; padding:16px 28px; display:flex; justify-content:space-between; align-items:center; }\n    main { max-width:980px; margin:28px auto; padding:0 20px; }\n    .slot { background:#fff; border:1px solid #e4e4e7; border-radius:8px; padding:14px 18px; display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }\n    .btn { background:#2563eb; color:#fff; border:none; padding:7px 14px; border-radius:6px; cursor:pointer; font-size:13px; }\n  </style>\n</head>\n<body>\n  <header><strong>CareGrid Diagnostics</strong><span>Today · Outpatient Wing B</span></header>\n  <main>\n    <h2 style=\"font-size:20px;\">Scheduled Intake Queue</h2>\n    <div class=\"slot\"><div><strong>09:30 AM</strong> — Liam Brown · Thoracic Scan Review</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n    <div class=\"slot\"><div><strong>10:15 AM</strong> — Emily Chen · Follow-up Consultation</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n    <div class=\"slot\"><div><strong>11:00 AM</strong> — Marcus Rivera · Lab Panel Sync</div><button class=\"btn\" onclick=\"this.textContent='Checked In';this.style.background='#16a34a'\">Check In</button></div>\n  </main>\n</body>\n</html>",
+          "language": "html"
+        }
+      ],
+      "createdAt": "2026-11-17T13:17:47.765Z"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "msg_1728c4fcbdb0ec5d80b6",
+      "projectId": "prj_c5daaa416bd5132b39fb",
+      "role": "user",
+      "content": "Build a production-grade saas analytics dashboard with interactive workflows, clean light and dark support, and structured data views.",
+      "createdAt": "2026-11-17T13:55:20.398Z"
+    },
+    {
+      "id": "msg_2a7784fb3cf9bc94720f",
+      "projectId": "prj_c5daaa416bd5132b39fb",
+      "role": "system",
+      "content": "Orchestration halted: {\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "createdAt": "2026-11-17T13:55:21.706Z"
+    }
+  ],
+  "orchestrationJobs": [
+    {
+      "id": "job_23ce120feb60fbe05ece",
+      "projectId": "prj_c5daaa416bd5132b39fb",
+      "userId": "usr_9f06b5663ffa9e212ffa",
+      "prompt": "Build a production-grade saas analytics dashboard with interactive workflows, clean light and dark support, and structured data views.",
+      "requestedModelId": "vektor-auto",
+      "status": "stopped",
+      "currentStepIndex": 0,
+      "tasks": [
+        {
+          "stepKey": "plan",
+          "title": "Decompose Architecture & Task Plan",
+          "taskType": "orchestration",
+          "assignedModelId": "gemini-4-hydrogen",
+          "actualModelUsed": null,
+          "status": "running",
+          "latencyMs": 0,
+          "tokensUsed": 0,
+          "outputSummary": null
+        },
+        {
+          "stepKey": "build",
+          "title": "Generate Multi-File Application Code",
+          "taskType": "coding",
+          "assignedModelId": "gemini-4-hydrogen",
+          "actualModelUsed": null,
+          "status": "pending",
+          "latencyMs": 0,
+          "tokensUsed": 0,
+          "outputSummary": null
+        },
+        {
+          "stepKey": "review",
+          "title": "Verify Quality, Accessibility & Bundle",
+          "taskType": "testing_debug",
+          "assignedModelId": "gemini-4-hydrogen",
+          "actualModelUsed": null,
+          "status": "pending",
+          "latencyMs": 0,
+          "tokensUsed": 0,
+          "outputSummary": null
+        }
+      ],
+      "events": [
+        {
+          "id": "evt_3bfa579a5094e87915a2",
+          "timestamp": "2026-11-17T13:55:20.402Z",
+          "type": "job_started",
+          "message": "VEKTOR AI Senior Orchestrator initialized."
+        },
+        {
+          "id": "evt_2eb5fb85c1e6fc0a414f",
+          "timestamp": "2026-11-17T13:55:20.414Z",
+          "type": "task_delegated",
+          "message": "Delegated \"Decompose Architecture & Task Plan\" to Gemini 4 Hydrogen (configured fallback)",
+          "meta": {
+            "taskType": "orchestration",
+            "modelId": "gemini-4-hydrogen"
+          }
+        },
+        {
+          "id": "evt_a0b7fd301a230879a546",
+          "timestamp": "2026-11-17T13:55:21.707Z",
+          "type": "job_error",
+          "message": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+        },
+        {
+          "id": "evt_097ec3eb4301ab45bd44",
+          "timestamp": "2026-11-17T13:55:29.420Z",
+          "type": "job_started",
+          "message": "VEKTOR AI Senior Orchestrator initialized."
+        },
+        {
+          "id": "evt_a54fb4ad29b9bfeaa603",
+          "timestamp": "2026-11-17T13:55:29.422Z",
+          "type": "task_delegated",
+          "message": "Delegated \"Decompose Architecture & Task Plan\" to Gemini 4 Hydrogen (configured fallback)",
+          "meta": {
+            "taskType": "orchestration",
+            "modelId": "gemini-4-hydrogen"
+          }
+        },
+        {
+          "id": "evt_4a900a5bf96e3043cacd",
+          "timestamp": "2026-11-17T13:57:07.682Z",
+          "type": "job_stopped",
+          "message": "Execution stopped by user. Checkpoint preserved."
+        }
+      ],
+      "tokensUsed": 0,
+      "creditsUsed": 0,
+      "latencyMs": 0,
+      "errorMessage": null,
+      "createdAt": "2026-11-17T13:55:20.398Z",
+      "updatedAt": "2026-11-17T13:57:07.682Z"
+    }
+  ],
+  "deployments": [
+    {
+      "id": "dep_sh_1",
+      "projectId": "prj_showcase_treasury",
+      "userId": "usr_builder",
+      "slug": "meridian-treasury",
+      "liveUrl": "/hosted/meridian-treasury",
+      "versionId": "ver_showcase_1",
+      "status": "live",
+      "logs": [
+        "[VEKTOR Host] Bundle verified (index.html)",
+        "[VEKTOR Host] Published live at /hosted/meridian-treasury"
+      ],
+      "publishedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "dep_sh_2",
+      "projectId": "prj_showcase_aeterna",
+      "userId": "usr_builder",
+      "slug": "aeterna-stoneware",
+      "liveUrl": "/hosted/aeterna-stoneware",
+      "versionId": "ver_showcase_2",
+      "status": "live",
+      "logs": [
+        "[VEKTOR Host] Bundle verified (index.html)",
+        "[VEKTOR Host] Published live at /hosted/aeterna-stoneware"
+      ],
+      "publishedAt": "2026-11-17T13:17:47.765Z"
+    },
+    {
+      "id": "dep_sh_3",
+      "projectId": "prj_showcase_caregrid",
+      "userId": "usr_builder",
+      "slug": "caregrid-intake",
+      "liveUrl": "/hosted/caregrid-intake",
+      "versionId": "ver_showcase_3",
+      "status": "live",
+      "logs": [
+        "[VEKTOR Host] Bundle verified (index.html)",
+        "[VEKTOR Host] Published live at /hosted/caregrid-intake"
+      ],
+      "publishedAt": "2026-11-17T13:17:47.765Z"
+    }
+  ],
+  "customDomains": [],
+  "githubConnections": [],
+  "errorLogs": [
+    {
+      "id": "err_ea2de3cc8eca85a3ee01",
+      "source": "orchestrator",
+      "severity": "error",
+      "message": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "context": {
+        "jobId": "job_23ce120feb60fbe05ece",
+        "projectId": "prj_c5daaa416bd5132b39fb"
+      },
+      "createdAt": "2026-11-17T13:55:21.705Z"
+    },
+    {
+      "id": "err_e0c7fd6c5797cf0a9e43",
+      "source": "gateway",
+      "severity": "error",
+      "message": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}",
+      "context": {
+        "modelId": "gemini-4-hydrogen",
+        "userId": "usr_8b94e6f074a0954ecc11"
+      },
+      "createdAt": "2026-11-17T13:41:01.825Z"
+    }
+  ]
+}

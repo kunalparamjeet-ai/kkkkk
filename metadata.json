@@ -1,0 +1,6 @@
+{
+  "name": "VEKTOR AI",
+  "description": "Full-stack AI software orchestration platform with multi-model delegation, live split-screen workspace, OpenAI-compatible API gateway, GitHub sync, and managed hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
